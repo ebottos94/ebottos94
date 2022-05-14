@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ebottos94
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me ...
+Hi, I'm Elia Luca Bottos, Software Developer and Mathematical Engineer with great passion for coding.
+
+I currently work mainly with Python and JavaScript to build web applications.
 
 <!---
 ebottos94/ebottos94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
