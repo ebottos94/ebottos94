@@ -6,7 +6,7 @@ My favorite fields are Backend and Data Engineering, but I love everything relat
 
 Some technologies I use everyday : 
 
-Python, Django, Celery, Docker, Postgres.
+Python, Django, Celery, Redis, Docker, Postgres.
 
 **You can find me also on:**
 <p align="left">
