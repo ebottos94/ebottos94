@@ -1,8 +1,12 @@
 ### Hi there, welcome to my Github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Elia Luca Bottos, Software Developer and Mathematical Engineer with great passion for coding.
+I'm Elia Luca Bottos, a Software Engineer and I work mainly with Python. 
 
-I currently work mainly with Python, FastAPI and Django.
+My favorite fields are Backend and Data Engineering, but I love everything related to software engineering.
+
+Some technologies I use everyday : 
+
+Python, Django, Celery, Docker, Postgres.
 
 **You can find me also on:**
 <p align="left">
